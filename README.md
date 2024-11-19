@@ -22,7 +22,7 @@ It is a code that implements DenseFuse, which has implemented the paper itself, 
 
 ### Result
 
-- **Fusiom Result**
+- **Fusion Result**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/030ce267-c0f1-4926-81b2-849dc606afdf" alt="Fusion Result" width="400">
 </p>
