@@ -17,7 +17,7 @@ It is a code that implements DenseFuse, which has implemented the paper itself, 
 
 - **IR Image**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/84b00abe-47a4-478c-8415-7bfd99445631" alt="IR1 Image" width="400">
+  <img src="https://github.com/user-attachments/assets/81f61c5e-3513-469a-8e6b-a35bc4feaf41" alt="IR1 Image" width="400">
 </p>
 
 ### Result
